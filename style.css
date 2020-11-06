@@ -1,0 +1,68 @@
+body {
+    background-color: #bbb;
+}
+#wrapper {
+    background-color: yellowgreen;
+    padding: 16px;
+    border: 2px solid black;
+}
+#wrapper span.minimizar {
+    position: absolute;
+    right: 20px;
+    top: 5px;
+    border: 2px solid black;
+    padding: 5px;
+    cursor: pointer;
+}
+#wrapper div {
+    padding: 10px;
+    border: 2px solid black;
+    margin-bottom: 4px;
+    position: relative;
+    margin-top: 10px;
+    overflow: hidden;
+}
+#wrapper > div {
+    background-color: #1abc9c;
+    padding-left: 15px;
+}
+#wrapper > div > div {
+    background-color: #2ecc71;
+    padding-left: 30px;
+}
+#wrapper > div > div > div {
+    background-color: #3498db;
+    padding-left: 45px;
+}
+#wrapper > div > div > div > div {
+    background-color: #fdcb6e;
+    padding-left: 60px;
+}
+#wrapper > div > div > div > div > div {
+    background-color: #34495e;
+    padding-left: 75px;
+}
+#wrapper > div > div > div > div > div > div {
+    background-color: #e67e22;
+    padding-left: 90px;
+}
+#wrapper > div > div > div > div > div {
+    background-color: #f39c12;
+    padding-left: 105px;
+}
+#wrapper > div > div > div > div > div > div {
+    background-color: #bdc3c7;
+    padding-left: 120px;
+}
+#wrapper > div > div > div > div > div {
+    background-color: #1abc9c;
+    padding-left: 135px;
+}
+#wrapper > div > div > div > div > div > div {
+    background-color: #9b59b6;
+    padding-left: 150px;
+}
+#wrapper > div > div > div > div > div > div > div {
+    background-color: #3498db;
+    padding-left: 175px;
+}
